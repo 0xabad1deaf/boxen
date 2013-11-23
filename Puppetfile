@@ -55,7 +55,7 @@ github "xquartz",    "1.1.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 github "heroku",     "2.1.1"
-github "maven",      "1.1.8", :repo => "/maestrodev/puppet-maven"
+github "maven",      "1.1.8", :repo => "maestrodev/puppet-maven"
 github "java",       "1.1.2"
 github "macvim"      "1.0.0"
 
