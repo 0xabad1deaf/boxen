@@ -36,9 +36,7 @@ github "boxen", "3.3.4"
 
 github "dnsmasq",    "1.0.0"
 github "foreman",    "1.0.0"
-github "gcc",        "2.0.1"
 github "git",        "1.2.5"
-github "go",         "1.0.0"
 github "homebrew",   "1.5.1"
 github "hub",        "1.0.3"
 github "inifile",    "1.0.0", :repo => "puppetlabs/puppetlabs-inifile"
@@ -53,5 +51,11 @@ github "stdlib",     "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
 github "xquartz",    "1.1.0"
 
+
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+github "heroku",     "2.1.1"
+github "maven",      "1.1.8", :repo => "/maestrodev/puppet-maven"
+github "java",       "1.1.2"
+github "macvim"      "1.0.0"
+
